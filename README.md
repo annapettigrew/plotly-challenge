@@ -11,8 +11,6 @@ The plots that are in this dashboard, include:
 - The plots will update  when a new sample is selected.
 
 The results will be deployed on GitHub Pages
-permalink: /index.html
-
 
 
 
